@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "./static/css/main.ba001ab4.chunk.css",
+    "main.js": "./static/js/main.ef0346bf.chunk.js",
+    "main.js.map": "./static/js/main.ef0346bf.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.cf1dde82.js",
+    "runtime-main.js.map": "./static/js/runtime-main.cf1dde82.js.map",
+    "static/css/2.47e06e2e.chunk.css": "./static/css/2.47e06e2e.chunk.css",
+    "static/js/2.38b71fe5.chunk.js": "./static/js/2.38b71fe5.chunk.js",
+    "static/js/2.38b71fe5.chunk.js.map": "./static/js/2.38b71fe5.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.950f32882fd11fd3931ff499cbfdabd4.js": "./precache-manifest.950f32882fd11fd3931ff499cbfdabd4.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "./static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.ba001ab4.chunk.css.map": "./static/css/main.ba001ab4.chunk.css.map",
+    "static/js/2.38b71fe5.chunk.js.LICENSE.txt": "./static/js/2.38b71fe5.chunk.js.LICENSE.txt",
+    "static/media/MoneyPyramid.jpg": "./static/media/MoneyPyramid.a87c224d.jpg",
+    "static/media/intern.png": "./static/media/intern.3f602c7a.png",
+    "static/media/public_qr.png": "./static/media/public_qr.f635ecc3.png",
+    "static/media/wx_qun.jpeg": "./static/media/wx_qun.1c6fe7cc.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf1dde82.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.38b71fe5.chunk.js",
+    "static/css/main.ba001ab4.chunk.css",
+    "static/js/main.ef0346bf.chunk.js"
+  ]
+}
